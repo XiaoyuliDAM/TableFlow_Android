@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TableFlow</string>
+    <string name="open_drawer">Abrir menú</string>
+    <string name="close_drawer">Cerrar menú</string>
+    <string-array name="roles_array">
+        <item>Camarer@</item>
+        <item>Cociner@</item>
+        <item>Encargad@</item>
+    </string-array>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="logout_button">Cerrar Sesión</string>
+    <string name="register_button">Registrarse</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="go_login_text">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="go_register_text">¿No tienes cuenta? Regístrate</string>
+    <string name="username_hint">Usuario</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="user_image">Imagen de perfil del usuario</string>
+    <string name="default_user_name">Usuario</string>
+    <string name="default_user_role">Rol</string>
+
+</resources>
